@@ -1,7 +1,7 @@
 # Aggregator Low Balance Notifier
 
 
-Parse balance of the aggregaotes and push low balance notification to telegram channel.
+Parse balance of the aggregators and push low balance notification to telegram channel.
 
 
 
